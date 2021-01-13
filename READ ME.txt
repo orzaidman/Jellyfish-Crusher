@@ -1,0 +1,33 @@
+## How to use the game:
+
+Make sure you have the following files in the ZIP:
+|   index.html
+|   index.js
+|   READ ME.txt
+|   styles.css
+|   
++---.vscode
+|       settings.json
+|       
++---images
+|       background.jpg
+|       heart.png
+|       Jellyfish.png
+|       mainScreen.jpg
+|       pipeupnew.png
+|       pipnew.png
+|       
+\---sounds
+        hitSound.mp3
+        missSound.mp3
+        swooshingSound.mp3
+
+
+## To open the game run "index.html" on the Chrome browser  
+
+## Game commands
+SPACEBAR - run the game
+ENTER - close the pipes
+ESC - pause 
+R - Restart 
+
